@@ -1,0 +1,41 @@
+*{
+	
+}
+
+body{
+background: black;	
+
+}
+
+h4{
+color: white;
+background-color:808080;
+font: italic 600% ;
+border: white solid 15px;
+padding: 20px;
+margin: 20px;
+}
+
+h1{
+color: black;	
+background-color: yellow;
+border: white solid 15px;
+padding: 20px;
+margin: 20px;
+}
+
+p{
+background-color:green;
+font: 150% fantasy;
+border: white solid 5px;
+margin: 10px;
+}
+
+img{
+float:center;
+border-radius: 30%
+border: white solid 15px;
+padding: 20px;
+margin: 20px;
+
+}
